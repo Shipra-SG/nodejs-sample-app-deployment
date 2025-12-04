@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-sample-app-deployment",
+  "version": "1.0.0",
+  "description": "Node.js Sample App deployed on AWS EC2 Ubuntu",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
