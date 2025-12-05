@@ -33,12 +33,19 @@ nodejs-sample-app/
 - Security Group Ports:
      - 22 → SSH
      - 3000 → Node.js App
+ 
+<img width="1918" height="868" alt="image" src="https://github.com/user-attachments/assets/b1b9c90c-17b8-464c-92c1-f128c973fad3" />
+<img width="1608" height="250" alt="image" src="https://github.com/user-attachments/assets/453ecc72-62d8-4daf-aa12-a475bea35c83" />
+
 ---
 
 ### 2️⃣ Connect to EC2 via SSH
 ```
 ssh -i your-key.pem ubuntu@<EC2-PUBLIC-IP>
 ```
+<img width="1822" height="275" alt="image" src="https://github.com/user-attachments/assets/5e645d82-201d-4695-8be0-735d6dd12dc3" />
+<img width="1487" height="971" alt="image" src="https://github.com/user-attachments/assets/195963f5-ae9c-4925-a6bf-66cbaf1fb2ee" />
+<img width="1910" height="945" alt="image" src="https://github.com/user-attachments/assets/fba98a3e-d830-4d4e-bff5-724de6af9b75" />
 
 ---
 
@@ -86,6 +93,8 @@ nohup npm start &
 
 echo "✅ Node.js App Deployed Successfully on Ubuntu EC2!"
 ```
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/0cbf0c3e-602b-4c67-8c23-2c9150d647db" />
+
 ---
 
 ## Access Your Application
